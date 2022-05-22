@@ -53,6 +53,7 @@ https://trello.com/b/XwuvJGKq/nosql
 ## Présentation 
 Voici le lien de notre présentation : 
 https://docs.google.com/presentation/d/1f7Br0J6iFjwMNx5wGqK-TqYFDc_PaLYD9dRC8_VNsIg/edit?usp=sharing
+(Si nous n'arrivez pas à y accéder il est également dans le git)
 
 ## Difficultés rencontrées 
 Les deux principales difficultés :
